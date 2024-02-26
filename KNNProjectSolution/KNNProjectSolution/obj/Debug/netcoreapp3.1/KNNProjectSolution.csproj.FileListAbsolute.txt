@@ -1,0 +1,15 @@
+C:\Users\rrond\OneDrive\Desktop\Last_Semester\ArtificialIntelligence\ProjectTakeHome\KNNProjectSolution\KNNProjectSolution\bin\Debug\netcoreapp3.1\weightdummydata.csv
+C:\Users\rrond\OneDrive\Desktop\Last_Semester\ArtificialIntelligence\ProjectTakeHome\KNNProjectSolution\KNNProjectSolution\bin\Debug\netcoreapp3.1\KNNProjectSolution.exe
+C:\Users\rrond\OneDrive\Desktop\Last_Semester\ArtificialIntelligence\ProjectTakeHome\KNNProjectSolution\KNNProjectSolution\bin\Debug\netcoreapp3.1\KNNProjectSolution.deps.json
+C:\Users\rrond\OneDrive\Desktop\Last_Semester\ArtificialIntelligence\ProjectTakeHome\KNNProjectSolution\KNNProjectSolution\bin\Debug\netcoreapp3.1\KNNProjectSolution.runtimeconfig.json
+C:\Users\rrond\OneDrive\Desktop\Last_Semester\ArtificialIntelligence\ProjectTakeHome\KNNProjectSolution\KNNProjectSolution\bin\Debug\netcoreapp3.1\KNNProjectSolution.runtimeconfig.dev.json
+C:\Users\rrond\OneDrive\Desktop\Last_Semester\ArtificialIntelligence\ProjectTakeHome\KNNProjectSolution\KNNProjectSolution\bin\Debug\netcoreapp3.1\KNNProjectSolution.dll
+C:\Users\rrond\OneDrive\Desktop\Last_Semester\ArtificialIntelligence\ProjectTakeHome\KNNProjectSolution\KNNProjectSolution\bin\Debug\netcoreapp3.1\KNNProjectSolution.pdb
+C:\Users\rrond\OneDrive\Desktop\Last_Semester\ArtificialIntelligence\ProjectTakeHome\KNNProjectSolution\KNNProjectSolution\obj\Debug\netcoreapp3.1\KNNProjectSolution.csproj.AssemblyReference.cache
+C:\Users\rrond\OneDrive\Desktop\Last_Semester\ArtificialIntelligence\ProjectTakeHome\KNNProjectSolution\KNNProjectSolution\obj\Debug\netcoreapp3.1\KNNProjectSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rrond\OneDrive\Desktop\Last_Semester\ArtificialIntelligence\ProjectTakeHome\KNNProjectSolution\KNNProjectSolution\obj\Debug\netcoreapp3.1\KNNProjectSolution.AssemblyInfoInputs.cache
+C:\Users\rrond\OneDrive\Desktop\Last_Semester\ArtificialIntelligence\ProjectTakeHome\KNNProjectSolution\KNNProjectSolution\obj\Debug\netcoreapp3.1\KNNProjectSolution.AssemblyInfo.cs
+C:\Users\rrond\OneDrive\Desktop\Last_Semester\ArtificialIntelligence\ProjectTakeHome\KNNProjectSolution\KNNProjectSolution\obj\Debug\netcoreapp3.1\KNNProjectSolution.csproj.CoreCompileInputs.cache
+C:\Users\rrond\OneDrive\Desktop\Last_Semester\ArtificialIntelligence\ProjectTakeHome\KNNProjectSolution\KNNProjectSolution\obj\Debug\netcoreapp3.1\KNNProjectSolution.dll
+C:\Users\rrond\OneDrive\Desktop\Last_Semester\ArtificialIntelligence\ProjectTakeHome\KNNProjectSolution\KNNProjectSolution\obj\Debug\netcoreapp3.1\KNNProjectSolution.pdb
+C:\Users\rrond\OneDrive\Desktop\Last_Semester\ArtificialIntelligence\ProjectTakeHome\KNNProjectSolution\KNNProjectSolution\obj\Debug\netcoreapp3.1\KNNProjectSolution.genruntimeconfig.cache
